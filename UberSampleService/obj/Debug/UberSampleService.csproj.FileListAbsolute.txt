@@ -1,0 +1,7 @@
+W:\ngw_de0157\bin\UberSampleService.dll
+W:\ngw_de0157\bin\UberSampleService.pdb
+c:\users\gen_colos\source\repos\UberSampleService\obj\Debug\UberSampleService.csproj.CoreCompileInputs.cache
+c:\users\gen_colos\source\repos\UberSampleService\obj\Debug\UberSampleService.csproj.CopyComplete
+c:\users\gen_colos\source\repos\UberSampleService\obj\Debug\UberSampleService.dll
+c:\users\gen_colos\source\repos\UberSampleService\obj\Debug\UberSampleService.pdb
+c:\users\gen_colos\source\repos\UberSampleService\obj\Debug\UberSampleService.csprojAssemblyReference.cache

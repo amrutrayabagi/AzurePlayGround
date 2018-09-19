@@ -1,0 +1,17 @@
+c:\users\gen_colos\source\repos\AzureStorageExercise\bin\Debug\AzureStorageExercise.exe.config
+c:\users\gen_colos\source\repos\AzureStorageExercise\bin\Debug\AzureStorageExercise.exe
+c:\users\gen_colos\source\repos\AzureStorageExercise\bin\Debug\AzureStorageExercise.pdb
+c:\users\gen_colos\source\repos\AzureStorageExercise\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+c:\users\gen_colos\source\repos\AzureStorageExercise\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+c:\users\gen_colos\source\repos\AzureStorageExercise\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+c:\users\gen_colos\source\repos\AzureStorageExercise\bin\Debug\Newtonsoft.Json.dll
+c:\users\gen_colos\source\repos\AzureStorageExercise\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+c:\users\gen_colos\source\repos\AzureStorageExercise\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+c:\users\gen_colos\source\repos\AzureStorageExercise\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+c:\users\gen_colos\source\repos\AzureStorageExercise\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+c:\users\gen_colos\source\repos\AzureStorageExercise\bin\Debug\Newtonsoft.Json.xml
+c:\users\gen_colos\source\repos\AzureStorageExercise\obj\Debug\AzureStorageExercise.csprojAssemblyReference.cache
+c:\users\gen_colos\source\repos\AzureStorageExercise\obj\Debug\AzureStorageExercise.csproj.CoreCompileInputs.cache
+c:\users\gen_colos\source\repos\AzureStorageExercise\obj\Debug\AzureStorageExercise.csproj.CopyComplete
+c:\users\gen_colos\source\repos\AzureStorageExercise\obj\Debug\AzureStorageExercise.exe
+c:\users\gen_colos\source\repos\AzureStorageExercise\obj\Debug\AzureStorageExercise.pdb

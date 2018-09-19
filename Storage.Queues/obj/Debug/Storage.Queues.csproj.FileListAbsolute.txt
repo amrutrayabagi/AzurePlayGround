@@ -1,0 +1,17 @@
+C:\Users\GEN_Colos\source\repos\Storage.Queues\bin\Debug\Storage.Queues.exe.config
+C:\Users\GEN_Colos\source\repos\Storage.Queues\bin\Debug\Storage.Queues.exe
+C:\Users\GEN_Colos\source\repos\Storage.Queues\bin\Debug\Storage.Queues.pdb
+C:\Users\GEN_Colos\source\repos\Storage.Queues\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\GEN_Colos\source\repos\Storage.Queues\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\GEN_Colos\source\repos\Storage.Queues\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\GEN_Colos\source\repos\Storage.Queues\bin\Debug\Newtonsoft.Json.dll
+C:\Users\GEN_Colos\source\repos\Storage.Queues\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\GEN_Colos\source\repos\Storage.Queues\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\GEN_Colos\source\repos\Storage.Queues\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\GEN_Colos\source\repos\Storage.Queues\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\GEN_Colos\source\repos\Storage.Queues\bin\Debug\Newtonsoft.Json.xml
+C:\Users\GEN_Colos\source\repos\Storage.Queues\obj\Debug\Storage.Queues.csprojAssemblyReference.cache
+C:\Users\GEN_Colos\source\repos\Storage.Queues\obj\Debug\Storage.Queues.csproj.CoreCompileInputs.cache
+C:\Users\GEN_Colos\source\repos\Storage.Queues\obj\Debug\Storage.Queues.csproj.CopyComplete
+C:\Users\GEN_Colos\source\repos\Storage.Queues\obj\Debug\Storage.Queues.exe
+C:\Users\GEN_Colos\source\repos\Storage.Queues\obj\Debug\Storage.Queues.pdb
